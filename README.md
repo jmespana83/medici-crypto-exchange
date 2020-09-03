@@ -28,7 +28,7 @@ if they are not already on your system.
 
 First, clone this repository to your local directory.
 ```
-git clone https://github.com/jpham93/crypto-exchange.git
+git clone https://github.com/jmespana83/medici-crypto-exchange
 ```
 
 Once you have a local copy, log onto Heroku with the CLI.
